@@ -2,7 +2,7 @@
 
 ## Instructions
 
-Branch this repo into your own github
+Fork this repo into your own github
 
 All code should be written inside the `index.js` file located in the base directory.
 
